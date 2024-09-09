@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">woong Portfolio ✨ <a href="https://woongheo1.github.io/web-porfolio">포토폴리오</a> <h1/>
+  <h1 align="center">woong Portfolio ✨  <h1/>
 
   <p align="center">
   <br/> 
